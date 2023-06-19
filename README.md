@@ -1,2 +1,3 @@
-# blue-coding-task
-Blue coding task with React
+## Run the project with:
+
+`npm i && npm start`
